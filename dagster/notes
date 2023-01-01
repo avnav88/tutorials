@@ -1,0 +1,3 @@
+questions:
+    1. how do you set the path for materializing assets, when doing so through the script vs UI
+    2. is it possible to move the ui components in dagit around
